@@ -1,0 +1,47 @@
+\documentclass{ctexbook}
+\begin{document}
+\kaishu\normalsize{附件：}
+\begin{center}
+\songti\large{泰山职业学院信息技术工程系\\
+专业建设委员会职责\\}
+\end{center}
+
+\heiti\large{第一章  总  则}
+
+\heiti\normalsize{第一条}\fangsong{  为适应高等职业教育发展的需要，加强信息技术工程系专业建设，提高教育教学质量，体现我系的办学特色，构建以能力为本位的理论和实践教学体系，更好地指导学生实习与就业，走产学研结合的发展道路，培养大批高素质技能型专门人才，特成立信息技术工程系专业建设委员会。}
+
+\heiti{第二条}\fangsong{  信息技术工程系专业建设委员会具体负责专业建设和人才培养的研究、指导、咨询、服务等工作。}
+
+
+\heiti\large{第二章  具 体 职  责}
+
+\heiti\normalsize{第一条} \fangsong{ 负责专业建设及管理的日常组织工作。开展专业建设、改革发展的战略研究，提出人才培养目标、人才培养模式、专业设置的建议、意见和发展规划。}
+
+\heiti\normalsize{第二条} \fangsong{ 负责新设置专业的论证和每年各专业招生计划的审定。}
+
+\heiti\normalsize{第三条} \fangsong{ 负责教改试点专业、重点专业建设宏观指导与管理。}
+
+\heiti\normalsize{第四条} \fangsong{ 制订优化专业结构的原则和方案，按照国家、省级、院级改革试点专业的标准定期对专业建设情况进行评价。}
+
+\heiti\normalsize{第五条} \fangsong{ 为制订、审定和修改专业教学计划、编制专业主干课程教学大纲和实践课教学大纲、调整课程结构提供指导性意见和建设。}
+
+\heiti\normalsize{第六条} \fangsong{ 指导、协助校内外实验实训基地建设，积极提供校外实习场所及推荐兼职教授、副教授、行业企业高级技术人员到学院讲课，积极开展本专业方面的讲座，指导、协调工学结合、校企合作。}
+
+\heiti\normalsize{第七条}\fangsong{  指导毕业论文（设计）的选题工作，为毕业生提供就业信息及就业指导。}
+
+\heiti\normalsize{第八条}\fangsong{  完成信息技术工程系委托的其他工作。}  
+ 
+\begin{center}
+信息技术工程系\\
+2013年12月20日
+\end{center}
+\end{document}
+
+
+djjdjd
+
+
+
+
+
+
